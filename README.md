@@ -1,2 +1,4 @@
 # -sandeep
-first repository
+this is my first repository.
+Auther-sandeep
+ 
